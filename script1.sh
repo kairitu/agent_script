@@ -1,4 +1,6 @@
 #!/bin/bash
+#Description: Script to display system infor
+
 lscpu
 sleep 2
 cat /etc/*release
