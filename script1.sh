@@ -16,3 +16,4 @@ sleep 2
 lscpu
 # Making another conflict and see whats up
 #conflict # 3
+#Conflict # 6
